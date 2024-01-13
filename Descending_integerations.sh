@@ -22,4 +22,4 @@ if [ $num2 -gt $num3 ]; then
 	num3=$tmp
 fi
 
-echo ""
+echo "Descending integerations are: $num1, $num2 and $num3."
