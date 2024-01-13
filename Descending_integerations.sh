@@ -1,6 +1,6 @@
-read -p "A 1st integeration:" num1
-read -p "A 2nd integeration:" num2
-read -p "A 3th integeration:" num3
+read -p "Entry 1st integeration:" num1
+read -p "Entry 2nd integeration:" num2
+read -p "Entry 3th integeration:" num3
 
 temp=0
 
